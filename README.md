@@ -50,5 +50,6 @@ Verified layout across all features in the dataset:
 
 **Technical Note for Next Week:** Due to this pronounced ~73/27 class imbalance, standard accuracy scores will yield a false sense of model performance. We must actively prioritize optimization around **Recall** and **F1-Score** when training classifiers.
 
----
-🔗 **Raw Dataset Link:** [Kaggle Telco Customer Churn Dataset](https://kaggle.com)
+
+🔗 **Raw Dataset Link:** [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
