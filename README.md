@@ -48,7 +48,7 @@ Verified layout across all features in the dataset:
 * **Class 'No' (Retained Users):** 5,174 customers (**73.46%**)
 * **Class 'Yes' (Churned Users):** 1,869 customers (**26.54%**)
 
-**Technical Note for Next Week:** Due to this pronounced ~73/27 class imbalance, standard accuracy scores will yield a false sense of model performance. We must actively prioritize optimization around **Recall** and **F1-Score** when training classifiers.
+**Technical Note:** Due to this pronounced ~73/27 class imbalance, standard accuracy scores will yield a false sense of model performance. We must actively prioritize optimization around **Recall** and **F1-Score** when training classifiers.
 
 
 🔗 **Raw Dataset Link:** [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
